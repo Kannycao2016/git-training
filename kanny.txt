@@ -1,4 +1,4 @@
 Kanny
 Born in:Beijing
 Add line here
-fav color: blue
+fav color: green
